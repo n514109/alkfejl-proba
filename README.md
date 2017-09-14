@@ -1,2 +1,2 @@
 # Alkalmazások fejlesztése próba - 2
-Alkalmazások fejlesztése beadandó
+Alkalmazások fejlesztése beadandó - 2

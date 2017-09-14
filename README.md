@@ -1,2 +1,2 @@
-# alkfejl-proba
+# Alkalmazások fejlesztése próba
 Alkalmazások fejlesztése beadandó
